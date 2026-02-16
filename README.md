@@ -1,6 +1,7 @@
 # Imersão Alura — Dados com Python
 
 Repositório criado para acompanhar minha primeira Imersão de Dados com Python.
+https://github.com/juliana-thildebrandt/imersao_alura_dados_python_II.git
 
 ## Status
 Concluido 🚀
