@@ -72,3 +72,6 @@ df['senioridade'].value_counts()
 - Distribuição salarial
 - Comparação por senioridade
 - Informações sobre trabalho remoto
+
+- Local URL: http://localhost:8501
+- Network URL: http://192.168.15.125:8501
